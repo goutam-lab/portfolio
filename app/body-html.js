@@ -94,9 +94,9 @@ export const BODY_HTML = `<div class="frame">
               <h2 data-amp="5">Get in touch</h2>
               <div class="links">
                 <span class="mail-wrap"><a class="primary" id="mail" href="mailto:Goutam54401@gmail.com">Goutam54401@gmail.com</a><button class="copy" id="copyMail" type="button" data-copy="Goutam54401@gmail.com" aria-label="Copy email address"><svg class="i-copy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8.5" y="8.5" width="12" height="12" rx="2.5"/><path d="M15.5 8.5V6A2.5 2.5 0 0 0 13 3.5H6A2.5 2.5 0 0 0 3.5 6v7A2.5 2.5 0 0 0 6 15.5h2.5"/></svg><svg class="i-done" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4.5 12.5l5 5 10-11"/></svg><span class="copy-tip" aria-hidden="true">Copied</span></button><span class="sr-only" id="copyStatus" aria-live="polite"></span></span>
-                <a href="https://www.linkedin.com/in/nesil-noble-763732151/" target="_blank" rel="noopener">LinkedIn</a>
-                <a href="https://www.behance.net/nesilnoble" target="_blank" rel="noopener">Behance</a>
-                <a href="resume/Nesil-Noble-Resume.pdf?v=2" target="_blank" rel="noopener" data-case="resume" data-hash="#resume" data-title="Resume" data-back="Back" data-download="Nesil-Noble-Resume.pdf">Resume</a>
+                <a href="https://www.linkedin.com/in/goutam-hanjwani-3b997530a" target="_blank" rel="noopener">LinkedIn</a>
+                <a href="https://github.com/goutam-lab" target="_blank" rel="noopener">GitHub</a>
+                <a href="resume/Goutam-Kumar-Hanjwani-Resume.pdf" target="_blank" rel="noopener" data-case="resume" data-hash="#resume" data-title="Resume" data-back="Back" data-download="Goutam-Kumar-Hanjwani-Resume.pdf">Resume</a>
               </div>
             </div>
           </div>
@@ -248,7 +248,7 @@ export const BODY_HTML = `<div class="frame">
         <div class="work-head">
           <h2 data-amp="9"><svg class="peek" id="peek" viewBox="0 0 130 70" aria-hidden="true"><path class="skin" d="M18 70 L18 44 Q18 8 58 8 L72 8 Q112 8 112 44 L112 70 Z" stroke="#000" stroke-width="3"/><path d="M18 50 Q18 8 58 8 L72 8 Q112 8 112 48 Q104 38 94 44 Q86 32 74 40 Q64 28 52 38 Q42 30 34 42 Q24 38 18 50 Z" fill="#000"/><ellipse cx="50" cy="58" rx="9" ry="11" fill="#fff" stroke="#000" stroke-width="2.5"/><ellipse cx="82" cy="58" rx="9" ry="11" fill="#fff" stroke="#000" stroke-width="2.5"/><circle id="pl" cx="54" cy="60" r="4" fill="#000"/><circle id="pr" cx="86" cy="60" r="4" fill="#000"/><path class="skin" d="M4 70 Q4 58 14 58 Q24 58 24 70 Z M106 70 Q106 58 116 58 Q126 58 126 70 Z" stroke="#000" stroke-width="3"/></svg>Selected work</h2>
           <p>A few scalable platforms, AI systems and research projects I’ve engineered, from hackathon-winning apps to production storefronts.</p>
-          <p class="work-more">Explore my open-source code and competitive programming on <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a> &amp; <a href="https://leetcode.com/" target="_blank" rel="noopener">LeetCode</a>.</p>
+          <p class="work-more">Explore my open-source code and competitive programming on <a href="https://github.com/goutam-lab" target="_blank" rel="noopener">GitHub</a> &amp; <a href="https://leetcode.com/" target="_blank" rel="noopener">LeetCode</a>.</p>
         </div>
 
         <a class="proj" href="work/corridor-tms.html" data-case="corridor-tms">
@@ -314,7 +314,7 @@ export const BODY_HTML = `<div class="frame">
         <div class="tools" id="tools" aria-label="Tools">
           <span>Next.js</span><span>React.js</span><span>TypeScript</span><span>JavaScript</span><span>Node.js</span><span>Python</span><span>PostgreSQL</span><span>Supabase</span><span>Gemini API</span><span>Tailwind CSS</span><span>Docker</span><span>Git</span><span>GitHub Actions</span><span>C++</span><span>Java</span><span>FastAPI</span><span>Redis</span><span>Vercel</span>
         </div>
-        <div class="more" id="more"><a href="https://github.com/" target="_blank" rel="noopener">GitHub Profile</a><a href="https://leetcode.com/" target="_blank" rel="noopener">LeetCode Profile</a><a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn Profile</a></div>
+        <div class="more" id="more"><a href="https://github.com/goutam-lab" target="_blank" rel="noopener">GitHub Profile</a><a href="https://leetcode.com/" target="_blank" rel="noopener">LeetCode Profile</a><a href="https://www.linkedin.com/in/goutam-hanjwani-3b997530a" target="_blank" rel="noopener">LinkedIn Profile</a></div>
       </div>
     </section>
 
