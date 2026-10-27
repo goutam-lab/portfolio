@@ -1,4 +1,4 @@
-// Client-side animation and interaction logic for Nesil Noble portfolio
+// Client-side animation and interaction logic for Goutam Kumar Hanjwani portfolio
 export function initLucidDreams() {
   if (typeof window === 'undefined') return;
 
